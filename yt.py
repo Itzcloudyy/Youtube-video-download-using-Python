@@ -1,7 +1,7 @@
 print("\n****************************************************************")
 print("\n* Copyright of Nitin Sharma, 2022                              *")
-print("\n* Black and White Hat Hacking                                  *")
-print("\n* Instagram @itzcloudy9                         *")
+print("\n* CyberSecurity | SOC | AWS and Cloud                          *")
+print("\n* Instagram @itzcloudy9                                        *")
 print("\n****************************************************************")
 
 from pytube import YouTube
