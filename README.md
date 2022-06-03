@@ -9,7 +9,7 @@ print("\n* Instagram @itzcloudy9                         *")
 print("\n****************************************************************")
 
 from pytube import YouTube
-url = 'https://youtu.be/7BXJIjfJCsA'
+url = ' Your Video Link '
 my_video = YouTube(url)
 print(my_video.title)
 print(my_video.thumbnail_url)
